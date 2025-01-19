@@ -169,3 +169,11 @@ KNN highlighted locality-driven class resolutions, harnessing large dataset intr
 ![__results___73_0](https://github.com/user-attachments/assets/2bd35636-fcf8-42b7-b869-b229c90cd862)
 
 ![__results___76_0](https://github.com/user-attachments/assets/8b36be38-a3df-4e6b-a9d1-693e6fd74a0d)
+
+---
+
+### 7. Azure ML Designer WorkFlow
+
+![Capture d’écran 2025-01-19 183951](https://github.com/user-attachments/assets/9d90b9fe-21a7-4aa5-981e-87a28c37dab3)
+![Capture d’écran 2025-01-19 184038](https://github.com/user-attachments/assets/590f04a0-7f4c-476e-b394-95bfd411ee9b)
+![Capture d’écran 2025-01-19 184100](https://github.com/user-attachments/assets/a562d45d-92ff-4ea3-bf5b-d1e2095c77f2)

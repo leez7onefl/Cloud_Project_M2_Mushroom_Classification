@@ -13,6 +13,7 @@
 6. Machine Learning
    - Logistic Regression
    - K Nearest Neighbors
+7. Azure ML Designer WorkFlow
 
 ## 1. Installing Required Libraries
 
